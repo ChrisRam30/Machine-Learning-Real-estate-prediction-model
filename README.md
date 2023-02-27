@@ -9,15 +9,11 @@ Data was pulled from kaggle.com which sourced this specific data from realestate
 The following are detailed steps required to install and use the application:
 1. Ensure the following is installed on your computer:
 a. Anaconda (https://www.anaconda.com/)
-2. Make sure the following files are located on your desktop to ensure they are easy to find
-a. C964_version1.ipynb
-b. realtor-data3.csv
+2. Make sure the following files are located on your desktop to ensure they are easy to find: C964_version1.ipynb, realtor-data3.csv
 3. Install Anaconda and update accordingly.
 4. Open Anaconda and Launch “JupyterLab”
 5. From there use the left navigation tab to open the following files by double clicking
-them:
-a. C964_version1.ipynb
-b. realtor-data3.csv
+them: C964_version1.ipynb, realtor-data3.csv
 6. From here click the c964_versio1.ipynb tab and click the “restart Kernal and run all cells
 button”
 a. Allow 120 seconds for the program to run in order to build visuals and the
