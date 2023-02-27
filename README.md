@@ -16,11 +16,11 @@ b. realtor-data3.csv
 4. Open Anaconda and Launch “JupyterLab”
 5. From there use the left navigation tab to open the following files by double clicking
 them:
-   a. C964_version1.ipynb
-  b. realtor-data3.csv
+a. C964_version1.ipynb
+b. realtor-data3.csv
 6. From here click the c964_versio1.ipynb tab and click the “restart Kernal and run all cells
 button”
-  a. Allow 120 seconds for the program to run in order to build visuals and the
+a. Allow 120 seconds for the program to run in order to build visuals and the
 prediction model.
 7. From here you can scroll down to view all visuals regarding the real estate data, such as:
 the bar graph showing the number of homes per price, the scatter plot showing the
